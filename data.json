@@ -1,5 +1,6 @@
- "circulars": [
-      {
+{
+  "circulars": [
+   {
         "name": "نظام تنظيم إستعمال الأراضي",
         "date": "25/01/2026",
         "url": "https://www.ammanchamber.org.jo/news/details/396674/%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A5%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A",
@@ -1571,8 +1572,8 @@
           "addedDate": "٢٩‏/١٠‏/٢٠٢٥"
         }
       }
-    ],
-  "users": [
+  ],
+"users": [
     {
       "username": "admin@acc.org.jo",
       "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
