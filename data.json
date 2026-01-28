@@ -1,1 +1,29 @@
-
+{
+  "circulars": [
+    {
+      "name": "البنك العربي",
+      "date": "28/01/2026",
+      "url": "https://campaigns.zoho.com/campaigns/org882186267/home.do#emailcampaign/1435874000048822002/cmpdetails",
+      "addedBy": {
+        "username": "admin@acc.org.jo",
+        "name": "المسؤول العام",
+        "role": "admin",
+        "timestamp": "2026-01-28T07:44:15.647Z",
+        "addedDate": "٢٨‏/١‏/٢٠٢٦"
+      }
+    }
+  ],
+  "users": [
+    {
+      "username": "admin@acc.org.jo",
+      "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "name": "المسؤول العام",
+      "role": "admin",
+      "created": "2026-01-28T07:44:15.647Z"
+    }
+  ],
+  "created": "2026-01-28T07:44:15.647Z",
+  "lastUpdate": "2026-01-28T07:44:15.647Z",
+  "version": "3.0",
+  "lastSynced": "2026-01-28T07:44:15.647Z"
+}
