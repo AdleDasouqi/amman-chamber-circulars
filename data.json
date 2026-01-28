@@ -1,9 +1,6 @@
 {
   "circulars": [
-    {
-  "record": {
-    "circulars": [
-      {
+     {
         "name": "نظام تنظيم إستعمال الأراضي",
         "date": "25/01/2026",
         "url": "https://www.ammanchamber.org.jo/news/details/396674/%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A5%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A",
@@ -1551,62 +1548,8 @@
           "addedDate": "٣٠‏/١٠‏/٢٠٢٥"
         }
       },
-    ],
-    "users": [
-      {
-        "id": 1,
-        "username": "adli.al-ibrahim@acc.org.jo",
-        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
-        "role": "admin",
-        "name": "عدلي الإبراهيم"
-      },
-      {
-        "id": 2,
-        "username": "mahmoud.amerah@acc.org.jo",
-        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
-        "role": "user",
-        "name": "محمود عميرة"
-      },
-      {
-        "id": 3,
-        "username": "salem.alateyat@acc.org.jo",
-        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
-        "role": "user",
-        "name": "سالم العطيات"
-      },
-      {
-        "id": 4,
-        "username": "shoroq.alhindi@acc.org.jo",
-        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
-        "role": "user",
-        "name": "شروق الهندي"
-      },
-      {
-        "id": 5,
-        "username": "software@acc.org.jo",
-        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
-        "role": "admin",
-        "name": "قسم البرمجيات"
-      },
-      {
-        "id": 6,
-        "username": "raed.momani@acc.org.jo",
-        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
-        "role": "admin",
-        "name": "رائد المومني"
-      },
-      {
-        "id": 7,
-        "username": "yousef.alramadeen@acc.org.jo",
-        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
-        "role": "admin",
-        "name": "يوسف الرماضين"
-      }
-    ]
-  }
-}
   ],
-"users": [
+  "users": [
     {
       "username": "admin@acc.org.jo",
       "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
