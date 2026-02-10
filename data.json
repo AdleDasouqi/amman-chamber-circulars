@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "تعليمات العلامة البيئية الأردنية رقم (1) لسنة 2026",
+      "date": "08/02/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/396707/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D8%B1%D9%82%D9%85-(1)-%D9%84%D8%B3%D9%86%D8%A9-2026",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-02-10T11:07:36.554Z",
+        "addedDate": "١٠‏/٢‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "مسودة قانون تنظيم العمل المهني لسنة 2026",
       "date": "04/02/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396698/%D9%85%D8%B3%D9%88%D8%AF%D8%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A-%D9%84%D8%B3%D9%86%D8%A9-2026",
@@ -1801,8 +1813,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-02-05T11:47:02.831Z",
+  "lastUpdate": "2026-02-10T11:07:36.572Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-02-05T11:47:02.831Z"
+  "lastSynced": "2026-02-10T11:07:36.572Z"
 }
