@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "تنظيم تداول وبيع المستلزمات الطبية التي تزرع داخل جسم الانسان",
+      "date": "07/02/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/396714/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%88%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%B2%D8%B1%D8%B9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B3%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-02-11T06:54:04.369Z",
+        "addedDate": "١١‏/٢‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "قرار بالموافقة على إعفاء السيارات المعدة إعداداً خاصاً لتقاد باليدين دون الرجلين لاستعمال المقعدين",
       "date": "07/02/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396709/%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D8%A5%D8%B9%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D8%AE%D8%A7%D8%B5%D8%A7%D9%8B-%D9%84%D8%AA%D9%82%D8%A7%D8%AF-%D8%A8%D8%A7%D9%84%D9%8A%D8%AF%D9%8A%D9%86-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%B1%D8%AC%D9%84%D9%8A%D9%86-%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%82%D8%B9%D8%AF%D9%8A%D9%86-%D8%A3",
@@ -1897,8 +1909,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-02-11T06:53:38.674Z",
+  "lastUpdate": "2026-02-11T06:54:04.369Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-02-11T06:53:38.674Z"
+  "lastSynced": "2026-02-11T06:54:04.369Z"
 }
