@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "تنظيم استيراد مادة زيت الاساس",
+      "date": "24/03/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/396777/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D9%85%D8%A7%D8%AF%D8%A9-%D8%B2%D9%8A%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-03-25T11:11:03.836Z",
+        "addedDate": "٢٥‏/٣‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "قرار رقم ( 5 ) المواصفات القياسية - اعلان صادر عن مجلس ادارة مؤسسة المواصفات والمقاييس",
       "date": "24/03/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396776/%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D9%82%D9%85-(-5-)-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9--%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D9%86-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%8A%D9%8A%D8%B3",
@@ -2485,8 +2497,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-03-25T11:10:34.315Z",
+  "lastUpdate": "2026-03-25T11:11:03.836Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-03-25T11:10:34.315Z"
+  "lastSynced": "2026-03-25T11:11:03.836Z"
 }
