@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "مسودة قانون معدل لقانون الامن السيبراني لسنة 2026",
+      "date": "22/04/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/396851/%D9%85%D8%B3%D9%88%D8%AF%D8%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%85%D8%B9%D8%AF%D9%84-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A-%D9%84%D8%B3%D9%86%D8%A9-2026",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-04-23T10:46:30.950Z",
+        "addedDate": "٢٣‏/٤‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "مسودة نظام ادارة صندوق دعم نقل الركاب لسنة 2026",
       "date": "22/04/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396850/%D9%85%D8%B3%D9%88%D8%AF%D8%A9-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AF%D8%B9%D9%85-%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%B1%D9%83%D8%A7%D8%A8-%D9%84%D8%B3%D9%86%D8%A9-2026",
@@ -3145,8 +3157,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-04-23T10:46:03.905Z",
+  "lastUpdate": "2026-04-23T10:46:30.950Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-04-23T10:46:03.905Z"
+  "lastSynced": "2026-04-23T10:46:30.950Z"
 }
