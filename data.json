@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "تدابير الصحة والصحة النباتية لسنة 2026",
+      "date": "03/05/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/396870/%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D8%A7%D8%AA%D9%8A%D8%A9-%D9%84%D8%B3%D9%86%D8%A9-2026",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-05-04T08:29:22.955Z",
+        "addedDate": "٤‏/٥‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "نظام رقم (14) - نظام رسوم معاملات الكاتب العدل",
       "date": "04/05/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396871/%D9%86%D8%B8%D8%A7%D9%85-%D8%B1%D9%82%D9%85-(14)--%D9%86%D8%B8%D8%A7%D9%85-%D8%B1%D8%B3%D9%88%D9%85-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%B9%D8%AF%D9%84",
@@ -3265,8 +3277,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-05-04T08:28:57.656Z",
+  "lastUpdate": "2026-05-04T08:29:22.955Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-05-04T08:28:57.656Z"
+  "lastSynced": "2026-05-04T08:29:22.955Z"
 }
