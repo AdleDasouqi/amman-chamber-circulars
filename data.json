@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "قانون رقم (12) لسنة 2026 - قانون الغـــاز",
+      "date": "07/05/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/396888/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-(12)-%D9%84%D8%B3%D9%86%D8%A9-2026--%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%BA%D9%80%D9%80%D9%80%D8%A7%D8%B2",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-05-10T10:28:20.808Z",
+        "addedDate": "١٠‏/٥‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "قانون رقم (11) لسنة 2026 - قانون عقود التأمين",
       "date": "07/05/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396887/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-(11)-%D9%84%D8%B3%D9%86%D8%A9-2026--%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86",
@@ -3445,8 +3457,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-05-10T10:27:59.364Z",
+  "lastUpdate": "2026-05-10T10:28:20.808Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-05-10T10:27:59.364Z"
+  "lastSynced": "2026-05-10T10:28:20.808Z"
 }
