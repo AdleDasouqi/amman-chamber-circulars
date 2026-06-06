@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "نظام رقم (27) لسنة 2026- نظام معدل لنظام لوحات المركبات",
+      "date": "06/06/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/396948/%D9%86%D8%B8%D8%A7%D9%85-%D8%B1%D9%82%D9%85-(27)-%D9%84%D8%B3%D9%86%D8%A9-2026-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D8%AF%D9%84-%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%84%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-06-06T10:12:41.684Z",
+        "addedDate": "٦‏/٦‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "نظام رقم ( 25) لسنة 2026- نظام معدل لنظام تسجيل وترخيص المركبات",
       "date": "06/06/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396947/%D9%86%D8%B8%D8%A7%D9%85-%D8%B1%D9%82%D9%85-(-25)-%D9%84%D8%B3%D9%86%D8%A9-2026-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D8%AF%D9%84-%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%88%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA",
@@ -3949,8 +3961,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-06-06T10:12:16.731Z",
+  "lastUpdate": "2026-06-06T10:12:41.684Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-06-06T10:12:16.731Z"
+  "lastSynced": "2026-06-06T10:12:41.684Z"
 }
