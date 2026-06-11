@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "قرار دائرة ضريبة الدخل والمبيعات باعلامنا بان اخر موعد للاستفادة من قرار مجلس الوزراء",
+      "date": "11/06/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/396958/%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%B6%D8%B1%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D8%AF%D8%AE%D9%84-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B9%D9%84%D8%A7%D9%85%D9%86%D8%A7-%D8%A8%D8%A7%D9%86-%D8%A7%D8%AE%D8%B1-%D9%85%D9%88%D8%B9%D8%AF-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D8%A9-%D9%85%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%AA%D9%85%D8%AF%D9%8A",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-06-11T10:31:04.264Z",
+        "addedDate": "١١‏/٦‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "دليل الصادرات العراقية 2025",
       "date": "08/06/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396953/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-2025",
@@ -3997,8 +4009,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-06-08T12:14:43.483Z",
+  "lastUpdate": "2026-06-11T10:31:04.278Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-06-08T12:14:43.483Z"
+  "lastSynced": "2026-06-11T10:31:04.278Z"
 }
