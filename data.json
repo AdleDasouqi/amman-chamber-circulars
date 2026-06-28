@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "اعلانات صادر عن مجلس ادارة مؤسسة المواصفات والمقاييس قرار رقم (2)",
+      "date": "27/06/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/397002/%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D9%86-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%8A%D9%8A%D8%B3-%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D9%82%D9%85-(2)",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-06-28T09:54:13.958Z",
+        "addedDate": "٢٨‏/٦‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "اعلان صادر عن البنك المركز الاردني",
       "date": "27/06/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/397001/%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86%D9%8A",
@@ -4405,8 +4417,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-06-28T09:52:55.289Z",
+  "lastUpdate": "2026-06-28T09:54:13.958Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-06-28T09:52:55.289Z"
+  "lastSynced": "2026-06-28T09:54:13.958Z"
 }
