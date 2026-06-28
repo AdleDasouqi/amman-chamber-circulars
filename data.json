@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "اعلان منح موافقة مبدئية لحماية اصناف نباتية جديدة ( NSG 465 / Strawberry )",
+      "date": "27/06/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/397003/%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D9%85%D9%86%D8%AD-%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D9%85%D8%A8%D8%AF%D8%A6%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D8%B5%D9%86%D8%A7%D9%81-%D9%86%D8%A8%D8%A7%D8%AA%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-(-nsg-465--strawberry-)",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-06-28T09:54:50.608Z",
+        "addedDate": "٢٨‏/٦‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "اعلانات صادر عن مجلس ادارة مؤسسة المواصفات والمقاييس قرار رقم (2)",
       "date": "27/06/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/397002/%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D9%86-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%8A%D9%8A%D8%B3-%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D9%82%D9%85-(2)",
@@ -4417,8 +4429,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-06-28T09:54:13.958Z",
+  "lastUpdate": "2026-06-28T09:54:50.608Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-06-28T09:54:13.958Z"
+  "lastSynced": "2026-06-28T09:54:50.608Z"
 }
