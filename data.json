@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "نظام رقم 33 لسنة 2026 – نظام معدل لنظام ترخيص شركات الصرافة",
+      "date": "27/06/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/397000/%D9%86%D8%B8%D8%A7%D9%85-%D8%B1%D9%82%D9%85-33-%D9%84%D8%B3%D9%86%D8%A9-2026-%E2%80%93-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D8%AF%D9%84-%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D9%81%D8%A9",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-06-28T09:52:16.232Z",
+        "addedDate": "٢٨‏/٦‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "قرار بالموافقة على اجراء تعديلات على جدول التعريفة الجمركية",
       "date": "27/06/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/396999/%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%AC%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9",
@@ -4381,8 +4393,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-06-28T09:51:44.250Z",
+  "lastUpdate": "2026-06-28T09:52:16.232Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-06-28T09:51:44.250Z"
+  "lastSynced": "2026-06-28T09:52:16.232Z"
 }
