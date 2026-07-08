@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "معارض ثلاثية مشهداني الصناعية - سوريا",
+      "date": "07/07/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/397020/%D9%85%D8%B9%D8%A7%D8%B1%D8%B6-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%85%D8%B4%D9%87%D8%AF%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9--%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-07-08T08:44:00.899Z",
+        "addedDate": "٨‏/٧‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "قياس أثر تطبيق نظام الابراء الالكتروني البري",
       "date": "05/07/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/397016/%D9%82%D9%8A%D8%A7%D8%B3-%D8%A3%D8%AB%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A",
@@ -4549,8 +4561,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-07-06T05:50:38.973Z",
+  "lastUpdate": "2026-07-08T08:44:00.913Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-07-06T05:50:38.973Z"
+  "lastSynced": "2026-07-08T08:44:00.913Z"
 }
