@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "النظام رقم (37) لسنة 2026 - نظام رخص الإعمار والرقابة عليها داخل حدود أمانة عمان",
+      "date": "19/07/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/397039/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B1%D9%82%D9%85-(37)-%D9%84%D8%B3%D9%86%D8%A9-2026--%D9%86%D8%B8%D8%A7%D9%85-%D8%B1%D8%AE%D8%B5-%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%8A%D9%87%D8%A7-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A3%D9%85%D8%A7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-07-19T06:13:26.877Z",
+        "addedDate": "١٩‏/٧‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "لوحة معلومات التجارة الحرة (FTA Dashboard)",
       "date": "18/07/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/397038/%D9%84%D9%88%D8%AD%D8%A9-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9-(fta-dashboard)",
@@ -4717,8 +4729,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-07-18T10:30:57.323Z",
+  "lastUpdate": "2026-07-19T06:13:26.902Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-07-18T10:30:57.323Z"
+  "lastSynced": "2026-07-19T06:13:26.902Z"
 }
