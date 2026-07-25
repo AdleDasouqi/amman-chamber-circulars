@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "الرسائل التوعوية للعامل وصاحب العمل /الجزء الثاني",
+      "date": "25/07/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/397054/%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%B9%D9%88%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D8%A7%D9%85%D9%84-%D9%88%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-07-25T10:38:57.663Z",
+        "addedDate": "٢٥‏/٧‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "منتدى اذربيجان الدولي الثاني للاستثمار",
       "date": "23/07/2026",
       "url": "https://www.ammanchamber.org.jo/events/details/27233188/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D8%B0%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
@@ -4801,8 +4813,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-07-23T06:27:37.256Z",
+  "lastUpdate": "2026-07-25T10:38:57.683Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-07-23T06:27:37.256Z"
+  "lastSynced": "2026-07-25T10:38:57.683Z"
 }
