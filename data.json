@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "المشاريع التي اعدتها اللجنة الفنية الدائمة للدهانات والورنيشات رقم 14 حسب المرفق ( أ )",
+      "date": "29/07/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/397061/%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B9%D8%AF%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D9%85%D8%A9-%D9%84%D9%84%D8%AF%D9%87%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%88%D8%B1%D9%86%D9%8A%D8%B4%D8%A7%D8%AA-%D8%B1%D9%82%D9%85-14-%D8%AD%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%B1%D9%81%D9%82-(-%D8%A3-)",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-07-29T08:18:23.546Z",
+        "addedDate": "٢٩‏/٧‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "معرض الشرق الأوسط للغذاء MFF 2026",
       "date": "29/07/2026",
       "url": "https://www.ammanchamber.org.jo/events/details/27233189/%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%84%D9%84%D8%BA%D8%B0%D8%A7%D8%A1-mff-2026",
@@ -4861,8 +4873,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-07-29T07:22:17.044Z",
+  "lastUpdate": "2026-07-29T08:18:23.546Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-07-29T07:22:17.044Z"
+  "lastSynced": "2026-07-29T08:18:23.546Z"
 }
