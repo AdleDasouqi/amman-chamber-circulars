@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "نظام إعفاء المشغل الخاص من رخصة إنشاء وتشغيل السكك الحديدية الخاصة",
+      "date": "01/08/2026",
+      "url": "https://www.ammanchamber.org.jo/news/details/397072/%D9%86%D8%B8%D8%A7%D9%85-%D8%A5%D8%B9%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B4%D8%BA%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D9%85%D9%86-%D8%B1%D8%AE%D8%B5%D8%A9-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%88%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%83%D9%83-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-08-01T11:22:24.742Z",
+        "addedDate": "١‏/٨‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "تعليمات لتعليمات حوكمة الشركات المساهمه المدرجة لسنة 2026",
       "date": "01/08/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/397068/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA-%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA-%D8%AD%D9%88%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%87%D9%85%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%AC%D8%A9-%D9%84%D8%B3%D9%86%D8%A9-2026",
@@ -4993,8 +5005,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-08-01T11:21:46.663Z",
+  "lastUpdate": "2026-08-01T11:22:24.742Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-08-01T11:21:46.663Z"
+  "lastSynced": "2026-08-01T11:22:24.742Z"
 }
