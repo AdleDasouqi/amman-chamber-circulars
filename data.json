@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "الرسائل التوعوية للعامل وصاحب العمل /الجزء الثاني",
+      "date": "09/08/2026",
+      "url": "https://acc.org.jo/news/details/397084/%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%B9%D9%88%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D8%A7%D9%85%D9%84-%D9%88%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-08-09T11:34:47.221Z",
+        "addedDate": "٩‏/٨‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "وحدات الوارد الإلكترونية",
       "date": "08/08/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/397083/%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9",
@@ -5113,8 +5125,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-08-08T10:10:52.101Z",
+  "lastUpdate": "2026-08-09T11:34:47.232Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-08-08T10:10:52.101Z"
+  "lastSynced": "2026-08-09T11:34:47.232Z"
 }
