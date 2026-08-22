@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "معرضيّ كاز آجرو وكاز فارم الزراعيين 2026",
+      "date": "22/08/2026",
+      "url": "https://www.ammanchamber.org.jo/events/details/27233219/%D9%85%D8%B9%D8%B1%D8%B6%D9%8A%D9%91-%D9%83%D8%A7%D8%B2-%D8%A2%D8%AC%D8%B1%D9%88-%D9%88%D9%83%D8%A7%D8%B2-%D9%81%D8%A7%D8%B1%D9%85-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D9%8A%D9%86-2026",
+      "addedBy": {
+        "username": "mahmoud.amerah@acc.org.jo",
+        "name": "محمود عميرة",
+        "role": "user",
+        "timestamp": "2026-08-22T06:32:32.463Z",
+        "addedDate": "٢٢‏/٨‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "معرض نوسانترا للمواشي والدواجن 2026",
       "date": "20/08/2026",
       "url": "https://www.ammanchamber.org.jo/events/details/27233218/%D9%85%D8%B9%D8%B1%D8%B6-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%AA%D8%B1%D8%A7-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%B4%D9%8A-%D9%88%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%AC%D9%86-2026",
@@ -5341,8 +5353,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-08-20T08:30:27.256Z",
+  "lastUpdate": "2026-08-22T06:32:32.473Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-08-20T08:30:27.256Z"
+  "lastSynced": "2026-08-22T06:32:32.473Z"
 }
