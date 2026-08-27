@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "اشعار بإيقاف حساب المستخدم العام لنظام تتبع الحاويات",
+      "date": "27/08/2026",
+      "url": "https://acc.org.jo/news/details/407114/%D8%A7%D8%B4%D8%B9%D8%A7%D8%B1-%D8%A8%D8%A5%D9%8A%D9%82%D8%A7%D9%81-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D8%AD%D8%A7%D9%88%D9%8A%D8%A7%D8%AA",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-08-27T10:08:38.466Z",
+        "addedDate": "٢٧‏/٨‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "اوقات دوام مركز جمرك عمان",
       "date": "26/08/2026",
       "url": "https://acc.org.jo/news/details/397114/%D8%A7%D9%88%D9%82%D8%A7%D8%AA-%D8%AF%D9%88%D8%A7%D9%85-%D9%85%D8%B1%D9%83%D8%B2-%D8%AC%D9%85%D8%B1%D9%83-%D8%B9%D9%85%D8%A7%D9%86",
@@ -5425,8 +5437,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-08-27T05:34:53.921Z",
+  "lastUpdate": "2026-08-27T10:08:38.467Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-08-27T05:34:53.921Z"
+  "lastSynced": "2026-08-27T10:08:38.467Z"
 }
