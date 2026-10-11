@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "انتاج وتداول وبيع مدافئ الغاز النمط الممنوع",
+      "date": "11/10/2026",
+      "url": "https://acc.org.jo/news/details/417184/%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%88%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%88%D8%A8%D9%8A%D8%B9-%D9%85%D8%AF%D8%A7%D9%81%D8%A6-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D9%86%D9%85%D8%B7-%D8%A7%D9%84%D9%85%D9%85%D9%86%D9%88%D8%B9",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-10-11T11:23:39.149Z",
+        "addedDate": "١١‏/١٠‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "الالتزام بتضمين التحذيرات اللازمة وتعليمات الاستخدام باللغة العربية",
       "date": "11/10/2026",
       "url": "https://www.ammanchamber.org.jo/news/details/417187/%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85-%D8%A8%D8%AA%D8%B6%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D8%A7%D8%B2%D9%85%D8%A9-%D9%88%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
@@ -6109,8 +6121,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-10-11T11:23:17.592Z",
+  "lastUpdate": "2026-10-11T11:23:39.149Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-10-11T11:23:17.592Z"
+  "lastSynced": "2026-10-11T11:23:39.149Z"
 }
