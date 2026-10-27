@@ -1,6 +1,18 @@
 {
   "circulars": [
     {
+      "name": "النفايات الالكترونية والكهربائية",
+      "date": "26/10/2026",
+      "url": "https://acc.org.jo/news/details/417223/%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9",
+      "addedBy": {
+        "username": "shoroq.alhindi@acc.org.jo",
+        "name": "شروق الهندي",
+        "role": "user",
+        "timestamp": "2026-10-27T11:01:20.713Z",
+        "addedDate": "٢٧‏/١٠‏/٢٠٢٦"
+      }
+    },
+    {
       "name": "العمر التشغيلي للشاحنات",
       "date": "26/10/2026",
       "url": "https://acc.org.jo/news/details/417222/%D8%A7%D9%84%D8%B9%D9%85%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%D9%8A-%D9%84%D9%84%D8%B4%D8%A7%D8%AD%D9%86%D8%A7%D8%AA",
@@ -6433,8 +6445,8 @@
     }
   ],
   "created": "2026-01-28T07:44:15.647Z",
-  "lastUpdate": "2026-10-27T06:45:29.601Z",
+  "lastUpdate": "2026-10-27T11:01:20.715Z",
   "version": "3.0",
   "description": "نظام تعاميم غرفة تجارة عمان",
-  "lastSynced": "2026-10-27T06:45:29.601Z"
+  "lastSynced": "2026-10-27T11:01:20.715Z"
 }
